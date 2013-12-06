@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reloj_Crono", "Reloj_Crono.csproj", "{CFC56ADB-DCE9-4357-AB62-351BDA1B4375}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC56ADB-DCE9-4357-AB62-351BDA1B4375}.Debug|x86.ActiveCfg = Debug|x86
+		{CFC56ADB-DCE9-4357-AB62-351BDA1B4375}.Debug|x86.Build.0 = Debug|x86
+		{CFC56ADB-DCE9-4357-AB62-351BDA1B4375}.Release|x86.ActiveCfg = Release|x86
+		{CFC56ADB-DCE9-4357-AB62-351BDA1B4375}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Reloj_Crono.csproj
+	EndGlobalSection
+EndGlobal
